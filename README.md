@@ -1,4 +1,24 @@
-### Hi there 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheuscl)](https://github.com/matheuscl)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-matheuscl-/)](https://www.linkedin.com/in/-matheuscl-/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus1994lopes@gmail.com)](mailto:matheus1994lopes@gmail.com)
+
+Apaixonado por tecnologia e inovação, adoro estudar e aprender novas coisas todos os dias...💙
+
+... In Progress 👨‍💻
+
+<table cellspacing="0" cellpadding="0" style="border: none">
+  <tr>
+    <td>
+      
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheuscl&count_private=true&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)      
+    </td>
+    <td>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        
+    </td>
+    </tr> 
+
+
 
 <!--
 **matheuscl/matheuscl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
