@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning some DevOps tools and methodologies
 - ⚡ Fun fact: I just love how development is so satisfying =)
+
 ... In Progress 👨‍💻
 
 <table cellspacing="0" cellpadding="0" style="border: none">
